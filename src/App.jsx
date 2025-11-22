@@ -64,7 +64,7 @@ export default function App() {
       try {
         setLoading(true);
         setError(null);
-        const res = await fetch(`/api/videos?limit=${limit}`); // proxy or serverless
+        const res = await fetch(`/api/video?limit=${limit}`); // proxy or serverless
         if (!res.ok) {
           const txt = await res.text();
           throw new Error(`Network error: ${res.status} ${txt}`);
