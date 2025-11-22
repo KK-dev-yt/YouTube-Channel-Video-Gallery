@@ -7,7 +7,7 @@ A beautiful, responsive video gallery website that displays videos from any YouT
 
 ## Live Demo
 
-[Click to open](https://vercel-yt-dasboard.vercel.app/)
+[Click to open](https://you-tube-channel-video-gallery.vercel.app/)
 
 ## ✨ Features
 
