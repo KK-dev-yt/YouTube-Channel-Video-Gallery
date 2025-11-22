@@ -5,6 +5,10 @@ A beautiful, responsive video gallery website that displays videos from any YouT
 ![Screenshot](https://img.shields.io/badge/Build-Vite-646CFF?logo=vite&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
+## Live Demo
+
+[Click to open](https://vercel-yt-dasboard.vercel.app/)
+
 ## ✨ Features
 
 - 🎥 **YouTube Integration** - Fetch and display videos from any YouTube channel
