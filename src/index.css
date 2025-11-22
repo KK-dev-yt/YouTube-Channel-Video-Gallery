@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* small helper */
+/* small helper */
+html,
+body,
+#root {
+  height: 100%;
+  @apply bg-gray-50 text-gray-900 dark:bg-gray-950 dark:text-white transition-colors duration-300;
+}
